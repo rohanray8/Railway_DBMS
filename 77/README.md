@@ -1,4 +1,4 @@
-# MTicket
+ # Railway reservation system
 To run the project.
 
 Step 1: Download and Install XAMPP
