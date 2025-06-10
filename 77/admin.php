@@ -39,7 +39,6 @@ include 'adminheader.php';
   <td><a href='admintraindb.php'><button style="background-color: black ; border-color:black "  >View Train Bookings </button></a></td>
  </tr> 
 
-
 <!-- <tr>
 
 <td><a href='adminbusdb.php'><button style="background-color: black ; border-color:black  ">View Bus Bookings</button></a></td></td>
